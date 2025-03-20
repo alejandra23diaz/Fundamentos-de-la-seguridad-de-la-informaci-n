@@ -6,6 +6,8 @@ Descripción: necesita inspeccion,
 despues entramos en la pagina de estilos en donde vamos hasta el final de la pagina en donde encontramos la segunda parte de la bandera
 ![imagen](https://github.com/user-attachments/assets/ed3c1397-7dae-4214-9f91-d10964044d92)
 para encontrar la ultima parte de la bandera lo encontramos en un archivo de java script.
+![imagen](https://github.com/user-attachments/assets/fe849696-3cce-4c16-99db-0718643de52b)
+
 
 Solución:  picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?832b0699}
 Notas adicionales:
