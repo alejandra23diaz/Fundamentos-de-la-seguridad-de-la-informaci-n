@@ -12,3 +12,19 @@ para encontrar la ultima parte de la bandera lo encontramos en un archivo de jav
 Solución:  picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?832b0699}
 Notas adicionales:
 Referencias
+
+
+Reto: Where are the robots
+Descripción: debemos encontrar que parte del sitio web el progrmador no quiere que miremos, por lo tanto investigamos a que se refiere el termino robot, por lo cual encontramos que es un archivo el cual indica que archivo no podemos utilizar.
+![imagen](https://github.com/user-attachments/assets/2c12b923-9159-458b-b39c-067ab0f221e1)
+por lo tanto procedemos a buscar ese archivo en el buscador de la pagina principal
+![imagen](https://github.com/user-attachments/assets/67ba5d3a-4115-4faf-83b8-2b835510c2d6)
+lo cual nos entrega la bandera que necesitamos.
+![imagen](https://github.com/user-attachments/assets/3af712f8-f3ac-41c9-b2a4-3c7569ce56ae)
+
+
+Solución:  picoCTF{ca1cu1at1ng_Mach1n3s_8028f} 
+Notas adicionales:
+Referencias:
+https://developers.google.com/search/docs/crawling-indexing/robots/intro?hl=es
+
