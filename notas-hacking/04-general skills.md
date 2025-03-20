@@ -1,4 +1,5 @@
 
+
 Reto: Insp3ct0r
 Descripción: necesita inspeccion,
  se debe seguir un link en el cual muestra 2 ventanas una que dice: yo hice esto y la segunda que nos indica el como en este caso inspeccionamos el codigo fuente y nos encontramos con una parte de la bandera 
@@ -39,3 +40,9 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________
 __________________________________________________________________________________________________________________
 __________________________________________________________________________________________________________________
+
+Reto: Logon
+Descripcion:
+Solucion:
+Notas adicionales:
+Referencias:
