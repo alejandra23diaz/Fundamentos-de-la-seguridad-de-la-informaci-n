@@ -79,11 +79,13 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________
 __________________________________________________________________________________________________________________
 Reto: Client-side-again
-Descripcion: Entramos al link que nos entregan en el reto el cual nos abre una pagina para ingresar la contraseña nuevamente, sin embargo en este caso vamos directamente al inspector de codigo, despues entramos a la parte de depurar el codigo, para encontrarnos con un texto el cual parece ser la bandera, sin embargo esta demasiado ofuscado, por lo tanto entramos a una pagina llamada  Js nice, la cual nos ayuda a acomodar el texto y asi entender un poco mas el texto
+Descripcion: Entramos al link que nos entregan en el reto el cual nos abre una pagina para ingresar la contraseña nuevamente, sin embargo en este caso vamos directamente al inspector de codigo, despues entramos a la parte de depurar el codigo, para encontrarnos con un texto el cual parece ser la bandera, 
+![imagen](https://github.com/user-attachments/assets/1128da0a-8ad0-48ff-9975-efb097ce7ba5)
+
+sin embargo esta demasiado ofuscado, por lo tanto entramos a una pagina llamada  Js nice, la cual nos ayuda a acomodar el texto y asi entender un poco mas el texto
 ![imagen](https://github.com/user-attachments/assets/0b099456-3bb0-43e6-a33c-a806ca179229)
  despuess copiamos la variable que se encuentra al inicio y la pegamos en la consola, lo cual nos ayudara a formar de manera mas facil la bandera.
  ![imagen](https://github.com/user-attachments/assets/a7301bd5-13b7-4a6e-9595-e6c695384b3d)
-
 
 
 Solucion:picoCTF{not_this_again_337115}
