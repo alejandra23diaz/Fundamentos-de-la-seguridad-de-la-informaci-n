@@ -48,7 +48,9 @@ Descripcion: debemos seguir una liga la cual es una pagina de login despues entr
 investigamos como funciona el http en un modelo de cliente- servidor
 despues de estar inspeccionando los complementos del html, entramos a la parte de las cookies para modificar el valor que tiene, para esto descargamos un complemento en el navegador el cual nos ayudara a editar las cookies y cambiar la opcion del admin a verdadero para poder observar la bandera que necesitamos 
 ![imagen](https://github.com/user-attachments/assets/064e5f69-f931-4cb9-834a-927d271f45d5)
-refrescamos el sitio y asi nos aparece la bandera.
+refrescamos el sitio y asi nos aparece la bandera.icobrowser
+![imagen](https://github.com/user-attachments/assets/7906384a-eedf-4938-8a04-eb9b9835e302)
+
 
 Solucion:picoCTF{th3_c0nsp1r4cy_l1v3s_d1c24fef}
 Notas adicionales:
@@ -62,8 +64,29 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________
 __________________________________________________________________________________________________________________
 Reto: dont-use-client-side
+
 Descripcion:
-Solucion:
+Entramos al link que nos indica en el reto, lo cual nos lleva a una pagina donde debemos verificar una contraseña, sin embargo, como no nos permite ingresar, entramos al codigo fuente de la pagina, en el cual aparece una serie de instrucciones en el cual valida la contraseña, pero notamos que ahi se encuentra la bandera, por lo tanto debemos formarla ya que esta dividida en 8 partes
+![imagen](https://github.com/user-attachments/assets/3e621865-eb44-436e-a9b7-3764424dd66a)
+
+Solucion:picoCTF{no_clients_plz_1a3c89}
+Notas adicionales:
+Referencias:
+
+__________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________
+Reto: Client-side-again
+Descripcion: Entramos al link que nos entregan en el reto el cual nos abre una pagina para ingresar la contraseña nuevamente, sin embargo en este caso vamos directamente al inspector de codigo, despues entramos a la parte de depurar el codigo, para encontrarnos con un texto el cual parece ser la bandera, sin embargo esta demasiado ofuscado, por lo tanto entramos a una pagina llamada  Js nice, la cual nos ayuda a acomodar el texto y asi entender un poco mas el texto
+![imagen](https://github.com/user-attachments/assets/0b099456-3bb0-43e6-a33c-a806ca179229)
+ despuess copiamos la variable que se encuentra al inicio y la pegamos en la consola, lo cual nos ayudara a formar de manera mas facil la bandera.
+ ![imagen](https://github.com/user-attachments/assets/a7301bd5-13b7-4a6e-9595-e6c695384b3d)
+
+
+
+Solucion:picoCTF{not_this_again_337115}
 Notas adicionales:
 Referencias:
 
