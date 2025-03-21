@@ -28,7 +28,7 @@ por lo tanto procedemos a buscar ese archivo en el buscador de la pagina princip
 lo cual nos entrega la bandera que necesitamos.
 ![imagen](https://github.com/user-attachments/assets/3af712f8-f3ac-41c9-b2a4-3c7569ce56ae)
 
-
+investigamos como funciona el http en un modelo de cliente- servidor
 Solución:  picoCTF{ca1cu1at1ng_Mach1n3s_8028f} 
 Notas adicionales:
 Referencias:
@@ -42,7 +42,33 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________
 
 Reto: Logon
+Descripcion: debemos seguir una liga la cual es una pagina de login despues entramos en el login como usuario: admin y contraseña: holamundo, el cual nos permite entrar al login 
+![imagen](https://github.com/user-attachments/assets/599b09e1-1fe2-44c7-94fd-5543fbfcdd48)
+
+investigamos como funciona el http en un modelo de cliente- servidor
+despues de estar inspeccionando los complementos del html, entramos a la parte de las cookies para modificar el valor que tiene, para esto descargamos un complemento en el navegador el cual nos ayudara a editar las cookies y cambiar la opcion del admin a verdadero para poder observar la bandera que necesitamos 
+![imagen](https://github.com/user-attachments/assets/064e5f69-f931-4cb9-834a-927d271f45d5)
+refrescamos el sitio y asi nos aparece la bandera.
+
+Solucion:picoCTF{th3_c0nsp1r4cy_l1v3s_d1c24fef}
+Notas adicionales:
+Referencias:
+https://developer.mozilla.org/es/docs/Web/HTTP
+
+
+__________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________
+Reto: dont-use-client-side
 Descripcion:
 Solucion:
 Notas adicionales:
 Referencias:
+
+__________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________
