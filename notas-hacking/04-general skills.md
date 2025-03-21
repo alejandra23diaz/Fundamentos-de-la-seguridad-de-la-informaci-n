@@ -98,3 +98,18 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________
 __________________________________________________________________________________________________________________
 __________________________________________________________________________________________________________________
+
+Reto: picobrowser
+Descripcion: Vamos al link de la pagina, pero al momento de ver la bandera, nos dice que no somos el navegador que requiere, por lo tanto vamos al ispector, despues de esto seleccionamos el apartado de flag y copiaremos la URL, despues ingresaremos a la terminar estos datos ![imagen](https://github.com/user-attachments/assets/afc60883-e5fc-4969-a05f-b433fb5b4e85)
+despues pegaremos la url que habiamos copiado anteriormente agregando la palabra curl al inicio y al finalizar la url agregaremos el texto -H "User-Agent: picobrowser" 
+![imagen](https://github.com/user-attachments/assets/a032f2d1-d6e7-4e79-bce5-c3d979f1f6d2)
+
+esto nos permitira visualizar la bandera.
+![imagen](https://github.com/user-attachments/assets/2051eb61-8d32-49ef-964e-569c44c82190)
+
+
+
+
+Solucion:picoCTF{p1c0_s3cr3t_ag3nt_51414fa7}
+Notas Adicionales:
+Referencias:
