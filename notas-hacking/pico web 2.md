@@ -18,7 +18,28 @@ Solucion: picoCTF{r3j3ct_th3_du4l1ty_775f2530}
 Notas adicionales:
 Referencias:
 
+										
+Reto: Cookies
+Descripcion: 
+Entramos al sitio que nos indica el reto
+http://mercury.picoctf.net:64944/
 
-Reto:
-Descripcion: primero vamos a descagar el burpsuite, para linux y despues en la ventana poxi indica que esta apagada, solo buscar en que puerto se encuentra el proxi, despues iremos en agregar el complemento llamado foxy proxy
-![imagen](https://github.com/user-attachments/assets/7b9a00b9-c302-44b2-a184-1bf35839cc78)
+![imagen](https://github.com/user-attachments/assets/df5e4bf3-286a-471a-a00f-682dfd1fb673)
+![imagen](https://github.com/user-attachments/assets/d10d7559-529e-4557-97bf-5c224bd0941b)
+
+
+
+vamos a tomar el diagonal check desde la terminal
+
+http://mercury.picoctf.net:64944/check
+
+despues vamos a escribir lo siguiente en nuestra terminal:
+ curl -s  http://mercury.picoctf.net:64944/check -H "Cookie: name=18";
+por lo cual nos indicara el valor de la cookie
+
+![imagen](https://github.com/user-attachments/assets/6e00b047-1189-4d67-8d60-63e382bb214d)
+
+
+solucion: picoCTF{3v3ry1_l0v3s_c00k135_cc9110ba}
+Notas adicionales:
+Referencias:
