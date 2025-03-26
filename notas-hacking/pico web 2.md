@@ -12,6 +12,13 @@ despues vamos a la terminal y probamos varios codigos por ejemplo curl -X GET ht
 curl -X HEADER http://mercury.picoctf.net:45028/index.php
  en el ultimo caso no funciono, por lo tanto cambiamos a curl -I http://mercury.picoctf.net:45028/index.php
  Con el cual nos entrega la bandera.
+![imagen](https://github.com/user-attachments/assets/9419cbe7-af0c-4397-9740-9b8221e17ea4)
+
 Solucion: picoCTF{r3j3ct_th3_du4l1ty_775f2530}
 Notas adicionales:
 Referencias:
+
+
+Reto:
+Descripcion: primero vamos a descagar el burpsuite, para linux y despues en la ventana poxi indica que esta apagada, solo buscar en que puerto se encuentra el proxi, despues iremos en agregar el complemento llamado foxy proxy
+![imagen](https://github.com/user-attachments/assets/7b9a00b9-c302-44b2-a184-1bf35839cc78)
