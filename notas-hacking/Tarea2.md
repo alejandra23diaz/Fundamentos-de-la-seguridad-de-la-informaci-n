@@ -62,6 +62,7 @@ Referencias:
 Reto:    Power Cookie
 
 Descripcion:
+Solucion: 
 Notas adicionales:
 Referencias:
 
@@ -89,11 +90,25 @@ Referencias:
 Reto: Unminify
 
 Descripcion:
+Vamos a entral al link del reto el cual nos envia a una pagina, donde miramos el codigo fuente, despues seguimos el codigo hasta que se presenta la bandera.
+
+![imagen](https://github.com/user-attachments/assets/beb717fe-df87-4cf5-8318-f7b15c0a14a7)
+![imagen](https://github.com/user-attachments/assets/8dc0d39e-6121-4b1b-acd1-1adb4bc1fcc6)
+
+Solucion: picoCTF{pr3tty_c0d3_622b2c88}
 Notas adicionales:
 Referencias:
 
 
 Reto:    WebDecode
-Descripcion:
+Descripcion: Vamos a entral al link del reto el cual nos envia a una pagina, donde inspeccionamos la pagina, despues seleccionamos una linea de codigo la cual obtenemos del apartado about, despues este texto lo llevamos a la pagina cyberchef y seleccionamos la opciona de magic, la cual nos va a  presentar la bandera.
+
+![imagen](https://github.com/user-attachments/assets/6374c0af-db36-4576-8697-a1ce757f73f0)
+
+![imagen](https://github.com/user-attachments/assets/e9e5c222-e01a-44ba-bbf8-aab58774b5db)
+
+![imagen](https://github.com/user-attachments/assets/9eaa4a05-afa6-4522-821c-b65d54137575)
+
+Solucion: picoCTF{web_succ3ssfully_d3c0ded_02cdcb59}
 Notas adicionales:
 Referencias:
