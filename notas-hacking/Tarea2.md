@@ -20,7 +20,13 @@ Referencias:
 
 Reto:    Inspect HTML
 
-Descripcion:
+Descripcion:Primero iniciamos el reto con lo cual nos dara el link en el cual debemos ingresar, este nos manda a una pagina
+despues vamos al codigo fuente de la pagina en el cual nos brinda directamente la bandera
+![imagen](https://github.com/user-attachments/assets/8f04902c-929c-4e9b-8919-108c2501f50d)
+
+![imagen](https://github.com/user-attachments/assets/109a3100-39fd-446c-bffd-8d175bbfc736)
+
+Solucion: picoCTF{1n5p3t0r_0f_h7ml_1fd8425b}
 Notas adicionales:
 Referencias:
 
