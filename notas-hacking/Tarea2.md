@@ -75,7 +75,17 @@ Referencias:
 
 Reto:    Roboto Sans
 
-Descripcion:
+Descripcion:Para este reto vamos a ir al la url que nos indican en el reto, despues vamos a escribir robot.txt en la url de la pagina la cual nos da cierta informacion la cual nos llevamos una parte a cyber chef y seleccionamos from base64  y pegamos la parte del texto que necesitabamos, lo cual nos da el nombre de otro ar4chivo en el cual se encuentra la bandera que se requiere
+
+![imagen](https://github.com/user-attachments/assets/230fdd12-5921-4618-8810-9aa6d45ff3ea)
+
+![imagen](https://github.com/user-attachments/assets/fa5b4e61-933f-4b8c-bcc4-d7ef72380fef)
+
+![imagen](https://github.com/user-attachments/assets/034fe109-819e-450f-848e-51fec5a5585d)
+![imagen](https://github.com/user-attachments/assets/9615680c-7e04-441f-84eb-113c139c1fe0)
+
+Solucion:picoCTF{Who_D03sN7_L1k5_90B0T5_718c9043}
+
 Notas adicionales:
 Referencias:
 
