@@ -22,7 +22,9 @@ Notas adicionales:
 Referencias
 
 Reto:JaWT Scratchpad
-Descripcion: 
-Solucion:  
+Descripcion: Vamos al url que nos brinda el reto, despues vamos a buscar nuestro editor de cookies en el cual nos va a  brindar una cookie con un login que realizammos previamente, despues en el editor copiamos la cookie a lo cual lo llevaremos a una pagina de jawt, luego modificamos la cookie e ingresamos la palabra secret que se utilizo para encriptar la cookie, despues ya eeditada nos llevamos la cookie a la pagina del inicio lo cual nos dara la bandera. 
+![image](https://github.com/user-attachments/assets/d41ae294-1dcf-44f2-9056-284d6edad288)
+
+Solucion:  picoCTF{jawt_was_just_what_you_thought_1ca14548}
 Notas adicionales:
 Referencias
