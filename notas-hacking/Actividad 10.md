@@ -1,6 +1,5 @@
 Reto:
 Descripcion: En este reto vamos al url que nos brindan en el cual entramos al apartado de login, despues ingresamos la palabraa admin'-- y cualquier contraseña, lo cual nos dara la bandera que necesitamos.
-![image](https://github.com/user-attachments/assets/777fe205-6f93-457d-bb59-4fb42536fe6a)
 ![image](https://github.com/user-attachments/assets/ad5e83f9-0752-4c94-b689-78335b05c082)
 
 ![image](https://github.com/user-attachments/assets/59203563-3455-4a32-be44-3d87632c3cf1)
