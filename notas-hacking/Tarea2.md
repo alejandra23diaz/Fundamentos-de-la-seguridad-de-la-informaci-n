@@ -3,8 +3,10 @@ Reto:  Includes
 
 Descripcion:
 Primero iniciamos el reto con lo cual nos dara el link en el cual debemos ingresar, este nos manda a una pagina con informacion acerca del include
-despues vamos al codigo fuente de la pagina, 
 ![imagen](https://github.com/user-attachments/assets/3e08e470-c971-4275-b818-9e9a0bd98590)
+despues vamos al codigo fuente de la pagina, 
+
+![imagen](https://github.com/user-attachments/assets/9aafcb77-0704-4a81-9e77-d471d5d20244)
 
 el cual contiene 2 archivos uno en .js y el otro es .css, en los cuales nos dan cierta parte de la bandera
 ![imagen](https://github.com/user-attachments/assets/a7f9a5f5-fe2c-42df-979e-f5542637e15e)
