@@ -1,4 +1,4 @@
-Tarea 2
+![imagen](https://github.com/user-attachments/assets/3169afff-6d8f-4355-a471-e0dd97b047a3)Tarea 2
 Reto:  Includes
 
 Descripcion:
@@ -32,7 +32,12 @@ Referencias:
 
 
 Reto:    IntroToBurp
-Descripcion:
+Descripcion:Para este reto vamos a utilizar el programa de burp suite en el cual lo utilizaremos para manejuar el trafico, despues vamos a abrir la url que nos proporciona el reto y al momento de llegar a la verificacion de 2f OTF, vamos a eliminar esa linea de codigo, con lo cual nos dara las banderas.
+![imagen](https://github.com/user-attachments/assets/94973a6c-092f-44cc-a5f7-ace9e56bdefa)
+![imagen](https://github.com/user-attachments/assets/974c6606-066a-4bdb-8418-6d0131e39228)
+![imagen](https://github.com/user-attachments/assets/f42c8af9-3ad8-419e-b0c0-b6e841cdbc06)
+
+Sokucion:  picoCTF{#0TP_Bypvss_SuCc3$S_2e80f1fd}
 Notas adicionales:
 Referencias:
 
@@ -40,6 +45,16 @@ Referencias:
 Reto:   Local Authority
 
 Descripcion:
+Para este reto vamos a ir al la url que nos indican en el reto, despues vamos a ir al codigo fuente de la pagina en la cual encontraremos un archivo llamado login .ph al cual entraremos en el cual nos brinda el username y la contraseña para ingresarla en el login del inicio lo cual nos dara la bandera que se necesita 
+![imagen](https://github.com/user-attachments/assets/d7881553-22bb-4621-8626-882784d02aff)
+
+![imagen](https://github.com/user-attachments/assets/53848772-c820-437f-a86b-50e247c32e43)
+
+![imagen](https://github.com/user-attachments/assets/3ffc3aa3-6998-4f57-89e4-840f1de7ce00)
+
+![imagen](https://github.com/user-attachments/assets/a76ac0dc-4bd5-4449-9bbd-433a0fbee0b3)
+
+Solucion: picoCTF{j5_15_7r4n5p4r3n7_b0c2c9cb} 
 Notas adicionales:
 Referencias:
 
