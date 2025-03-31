@@ -9,7 +9,7 @@ Notas adicionales:
 Referencias
 
 Reto: MoreSQLi
-Descripcion: aqui vamos al url que se nos indica, despues pedimos a chatgpt que nos brinde 10 pylots lo cual nos permitira entrar al login de la base de datos, con lo cual entramos al login, y despues le agregamos otra inyecion lo cual nos dara la bandeera que necesitamos
+Descripcion: aqui vamos al url que se nos indica, despues pedimos a chatgpt que nos brinde 10 pylots lo cual nos permitira entrar al login de la base de datos, con lo cual entramos al login, y despues le agregamos otra inyecion lo cual nos dara la bandeera que necesitamos 
 'union select id,flag,3 from more_table;
 ![image](https://github.com/user-attachments/assets/e6714191-c3d2-4054-95cb-872c4414edf7)
 
