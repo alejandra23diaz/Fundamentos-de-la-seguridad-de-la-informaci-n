@@ -1,4 +1,4 @@
-![imagen](https://github.com/user-attachments/assets/3169afff-6d8f-4355-a471-e0dd97b047a3)Tarea 2
+![imagen](https://github.com/user-attachments/assets/90bb32b5-d697-46b0-b93d-b501e3d21b56)![imagen](https://github.com/user-attachments/assets/3169afff-6d8f-4355-a471-e0dd97b047a3)Tarea 2
 Reto:  Includes
 
 Descripcion:
@@ -61,8 +61,14 @@ Referencias:
 
 Reto:    Power Cookie
 
-Descripcion:
-Solucion: 
+Descripcion: Para este reto vamos a ir al la url que nos indican en el reto, despues vamos ala aplicacion de burp suite en la cual vamos a escuchar el trafico de la pagina, en donde modificaremos la cookie de id admin, en la cual ingresamos el valor de 1 lo que nos entregara la bandera 
+![imagen](https://github.com/user-attachments/assets/4d8b1b75-6491-4138-9b4b-d2a95f69ef18)
+
+![imagen](https://github.com/user-attachments/assets/80bc09a1-6108-4cae-98c2-94b722332164)
+
+![imagen](https://github.com/user-attachments/assets/04c2d2fd-d5d3-4a75-a907-8abdf51af9f2)
+
+Solucion: picoCTF{gr4d3_A_c00k13_0d351e23}
 Notas adicionales:
 Referencias:
 
