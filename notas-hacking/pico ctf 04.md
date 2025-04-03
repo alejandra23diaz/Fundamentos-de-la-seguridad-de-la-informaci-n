@@ -35,6 +35,19 @@ Referencias:
 
 Reto: Trickster
 Descripcion:
+
+
+
+![imagen](https://github.com/user-attachments/assets/82462416-f903-4655-a742-585f3552d2ac)
+![imagen](https://github.com/user-attachments/assets/dce35b5d-061c-4210-83c5-790ae8b42d4e)
+![imagen](https://github.com/user-attachments/assets/c34a686f-db78-4068-892b-2fbab476c2ba)
+![imagen](https://github.com/user-attachments/assets/75081b87-0a3a-47cd-801d-e5f19dfc752e)
+![imagen](https://github.com/user-attachments/assets/297d3ded-93ec-4582-bcfc-55e24cafbd76)
+![imagen](https://github.com/user-attachments/assets/d9b38687-bdb5-480b-a816-1ad255d43193)
+![imagen](https://github.com/user-attachments/assets/228e6659-9f00-4092-a74e-ee4ec509971d)
+
+
+
 Solucion:
 Notas adicionales:
 Referencias:
