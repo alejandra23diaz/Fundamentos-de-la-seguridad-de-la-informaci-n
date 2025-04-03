@@ -15,8 +15,17 @@ Referencias:
 
 
 Reto: SOAP
-Descripcion:
-Solucion:
+Descripcion: Para este reto vamos a ir a la url la cual nos manda a una pagina sin embargo vamosn a entrar mediante la aplicacion de burp suit, para este tenemos que investigar a que se refiere la inyeccion xxe, lo cual nos brinda este texto el cual vamos a escribir en el cuadro de brup suit lo cual nos mostrara la contraseña en la pagina.
+
+
+
+<!DOCTYPE foo [ <!ENTITY xxe SYSTEM "file:///etc/passwd"> ]>
+![imagen](https://github.com/user-attachments/assets/cb8ce004-acf9-4c0b-9222-c8243804e53f)
+
+
+![imagen](https://github.com/user-attachments/assets/5636a570-1115-47d6-9c54-d49f35e5c23a)
+
+Solucion:picoCTF{XML_3xtern@l_3nt1t1ty_0dcf926e}
 Notas adicionales:
 Referencias:
 
