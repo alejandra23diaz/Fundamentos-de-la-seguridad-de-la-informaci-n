@@ -1,4 +1,4 @@
-![imagen](https://github.com/user-attachments/assets/90bb32b5-d697-46b0-b93d-b501e3d21b56)![imagen](https://github.com/user-attachments/assets/3169afff-6d8f-4355-a471-e0dd97b047a3)Tarea 2
+![imagen](https://github.com/user-attachments/assets/80e7f6c6-3ca5-42e8-ba6c-feee9d9a1cb3)![imagen](https://github.com/user-attachments/assets/90bb32b5-d697-46b0-b93d-b501e3d21b56)![imagen](https://github.com/user-attachments/assets/3169afff-6d8f-4355-a471-e0dd97b047a3)Tarea 2
 Reto:  Includes
 
 Descripcion:
@@ -92,13 +92,30 @@ Referencias:
 
 Reto:    Secrets
 
-Descripcion:
+Descripcion: primero vamos a ir al enlace de la pagina, despues vamos a escribir la palabra secret/ en el apartado de la url en el cual nos va a llevaar a la siguiente pagina
+
+![imagen](https://github.com/user-attachments/assets/44e61c72-5725-4a4c-8a70-721e1ada627f)
+ despues vamos a agregarle la palabra hidden en la url la cual nos lleva a la siguiente pagina 
+ ![imagen](https://github.com/user-attachments/assets/fb50c449-c635-486f-8c00-fdb8ed279c96)
+ despues vamos a agregarle la palabra superhidden en la url la cual nos lleva a la siguiente pagina, la cual nos da la bandera 
+![imagen](https://github.com/user-attachments/assets/ccb6d08f-f461-4eb7-af8c-5d8260255c9d)
+
+Solucion: picoCTF{succ3ss_@h3n1c@10n_39849bcf}
 Notas adicionales:
 Referencias:
 
 
 Reto:    SQLiLite
-Descripcion:
+Descripcion: en este reto vamos a ir a la url que nos indican, lo cual nos aparece una pagina de login, para esto al tratar de entrar al login nos dice que no podemos
+![imagen](https://github.com/user-attachments/assets/ad591151-0b4e-4ae6-b4b7-6398b8f12e78)
+
+sin embargo al escribir '' OR '1'='1' nos permite entrar
+![imagen](https://github.com/user-attachments/assets/c5e39ff4-24b7-4839-945e-1eddccab9b7c)
+
+por lo cual despues entramos al codigo fuente el cual tiene la bandera.
+![imagen](https://github.com/user-attachments/assets/f9534e4f-5102-4a47-94b4-46b93a06784d)
+
+Solucion: picoCTF{L00k5_l1k3_y0u_solv3d_it_d3c660ac}
 Notas adicionales:
 Referencias:
 
