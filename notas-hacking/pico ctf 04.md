@@ -34,21 +34,15 @@ Referencias:
 
 
 Reto: Trickster
-Descripcion:
+Descripcion: Para este reto vamos a ir a la url la cual nos manda a una pagina web, en la cual nos pide que carguemos una imagen png, sin embargo lo que hacemos es que creamos una pagina sencilla en php, que contenga tambien la extension png, para que podamos entrar a los archivos donde se encuentra la bandera, para esto nos vamos a salir para que nos muestre todos los archivos, luego encontraremos un documento extraño al cual le aplicamos un cat para ver el contenido del archivo en el cual encontramos la bandera.
+![imagen](https://github.com/user-attachments/assets/abd1569f-29c2-4d96-babc-94a055d7d404)
+![imagen](https://github.com/user-attachments/assets/05bc283a-4bb2-4010-b2f7-8521bde2c9ff)
+![imagen](https://github.com/user-attachments/assets/4d136d47-1fb4-4c46-9ce4-c812fe4833f0)
+![imagen](https://github.com/user-attachments/assets/4e365e8b-03ee-42ac-909e-8657621e2cbe)
 
 
 
-![imagen](https://github.com/user-attachments/assets/82462416-f903-4655-a742-585f3552d2ac)
-![imagen](https://github.com/user-attachments/assets/dce35b5d-061c-4210-83c5-790ae8b42d4e)
-![imagen](https://github.com/user-attachments/assets/c34a686f-db78-4068-892b-2fbab476c2ba)
-![imagen](https://github.com/user-attachments/assets/75081b87-0a3a-47cd-801d-e5f19dfc752e)
-![imagen](https://github.com/user-attachments/assets/297d3ded-93ec-4582-bcfc-55e24cafbd76)
-![imagen](https://github.com/user-attachments/assets/d9b38687-bdb5-480b-a816-1ad255d43193)
-![imagen](https://github.com/user-attachments/assets/228e6659-9f00-4092-a74e-ee4ec509971d)
-
-
-
-Solucion:
+Solucion: picoCTF{c3rt!fi3d_Xp3rt_tr1ckst3r_3f706222}
 Notas adicionales:
 Referencias:
 
@@ -58,6 +52,10 @@ Referencias:
 
 Reto: Most Cookies
 Descripcion:
+![imagen](https://github.com/user-attachments/assets/671dd97e-2ec7-4b37-ae5f-f76b3feff0bb)
+![imagen](https://github.com/user-attachments/assets/4adab64c-e6f1-4868-a79d-76ca139eda93)
+
+
 Solucion:
 Notas adicionales:
 Referencias:
